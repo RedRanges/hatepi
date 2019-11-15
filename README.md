@@ -59,7 +59,7 @@ This should start Flask which will deploy the application on a local server. You
 ## Authors
 
 * **Justin Siegel** - *Histogram, Flask app, and Database design* - [RedRanges](https://github.com/RedRanges)
-* ** Keith Berry** - *Bar Chart*
+* **Keith Berry** - *Bar Chart*
 * **Pankaj Sahai** - *Bubble Chart*
 
 ## Data
